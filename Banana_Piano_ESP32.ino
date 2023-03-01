@@ -5,7 +5,6 @@ const int VALUE_THRESHOLD = 30;
 int TOUCH_SENSOR_VALUE_1;
 int TOUCH_SENSOR_VALUE_2;
 int TOUCH_SENSOR_VALUE_3;
-
 void setup(){
   
   pinMode(Buzzer, OUTPUT);
